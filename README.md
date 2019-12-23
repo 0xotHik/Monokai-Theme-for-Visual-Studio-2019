@@ -4,5 +4,6 @@
 # How to install
 **Step 1: Set Visual Studio Color Theme to ‘Dark’**
 Tools → Options → General → Color Scheme → Dark
+
 **Step 2: Import the downloaded settings file**
 Download Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings from this repository (from "Releases" category, for example) and import settings from this file: Tools → Import and Export Settings → Import selected enviroment settings → [Do backup of current settings, if you need] → Browse → [Open downloaded Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings] → Finish
