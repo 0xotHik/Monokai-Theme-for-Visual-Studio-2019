@@ -9,5 +9,5 @@ Download Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings from this reposito
 Tools → Import and Export Settings → Import selected enviroment settings → [Do backup of current settings, if you need] → Browse → [Open downloaded Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings] → Finish
 
 # Made by
-Theme base — by Monokai's original creators
+Theme base — by Monokai's original creators<br/>
 Visual Studio's version — [Chris Frewin](https://medium.com/@frewin.christopher), [Michael Armes](https://github.com/hey-mikey) and [0xotHik](https://github.com/0xotHik)
