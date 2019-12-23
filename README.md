@@ -8,4 +8,4 @@ Tools → Options → General → Color Scheme → Dark<br/>
 Download Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings from this repository (from "Releases" category, for example) and import settings from this file:<br/>
 Tools → Import and Export Settings → Import selected enviroment settings → [Do backup of current settings, if you need] → Browse → [Open downloaded Monokai-VS2019-CSharp-ChrisFrewin-0xothik.vssettings] → Finish
 
-Made by Chris Frewin, Michael Armes and 0xotHik
+Made by [Chris Frewin](https://medium.com/@frewin.christopher), [Michael Armes](https://github.com/hey-mikey) and [0xotHik](https://github.com/0xotHik)
